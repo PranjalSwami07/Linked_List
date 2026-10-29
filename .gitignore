@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Compiled binaries and object files
+*.o
+*.out
+*.exe
+main
+solution
+
+# Debug files
+*.dSYM/
